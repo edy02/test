@@ -4,6 +4,7 @@ from pygame.locals import *
 
 pygame.init()
 
+#neco pro git
 white =(255,255,255)
 black = (0,0,0)
 red=(200,0,0)
