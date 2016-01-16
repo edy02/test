@@ -6,7 +6,7 @@ pygame.init()
 
 #neco pro git
 #dalsi git
-#a dalsi
+
 white =(255,255,255)
 black = (0,0,0)
 red=(200,0,0)
