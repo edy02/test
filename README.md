@@ -1,2 +1,1 @@
-# My testing project
-#hotfix
+info o testu
