@@ -5,7 +5,7 @@ from pygame.locals import *
 pygame.init()
 
 #alsdfj - master
-
+# my boss is a jerk
 
 white =(255,255,255)
 black = (0,0,0)
