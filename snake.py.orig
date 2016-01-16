@@ -4,10 +4,10 @@ from pygame.locals import *
 
 pygame.init()
 
-#adsfadf
 <<<<<<< HEAD
 #master
 =======
+#adsfadf
 #branch hotfix
 >>>>>>> hotfix
 
